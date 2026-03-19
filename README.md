@@ -15,10 +15,10 @@ This research addresses the challenge of sentiment analysis in low-resource, cod
 * [cite_start]**Optimization:** Early stopping at **Epoch 2** is critical for preventing overfitting in these low-resource settings[cite: 62, 840, 1062].
 
 ##  Technologies Used
-* [cite_start]**Languages:** Python 3.12 [cite: 624]
-* [cite_start]**Frameworks:** PyTorch, Hugging Face Transformers [cite: 623]
-* [cite_start]**Models:** XLM-ROBERTa-base, mBERT-base-cased, BiLSTM + Attention [cite: 133, 159, 169]
+* **Languages:** Python 3.12 [cite: 624]
+* **Frameworks:** PyTorch, Hugging Face Transformers [cite: 623]
+* **Models:** XLM-ROBERTa-base, mBERT-base-cased, BiLSTM + Attention [cite: 133, 159, 169]
 
 ## Repository Contents
-* [cite_start]`Final_dissertation_report.pdf`: The complete 15,000-word research paper[cite: 17].
-* [cite_start]`Appendices/`: Includes full hyperparameter tuning results and loss curves[cite: 1250, 1277].
+* `Final_dissertation_report.pdf`: The complete 15,000-word research paper[cite: 17].
+* `Appendices/`: Includes full hyperparameter tuning results and loss curves[cite: 1250, 1277].
